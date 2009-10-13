@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Inline Text Direction
-Plugin URI: http://www.almashroo.com
+Plugin URI: http://www.almashroo.com/projects/wordpress/plugins/inline-text-direction/en/
 Description: This plugin will add two new buttons on both editors (Visual and HTML), which will enable you to change the direction of inline text from LTR to RTL, or vice versa.
 Version: 1.0
 Author: Almashroo Development Team
