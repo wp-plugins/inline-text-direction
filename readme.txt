@@ -1,6 +1,6 @@
 ﻿=== Inline Text Direction ===
 Contributors: Almashroo
-Tags: arabic, bidi, inline text direction, direction
+Tags: arabic, bidi, text, inline, direction
 Requires at least: 2.7
 Tested up to: 2.8.4
 Stable tag: 1.0
@@ -17,8 +17,9 @@ In general, when foreign text that has a different directional run than the para
 
 في العادة، وعند دمج الكلمات الأجنبية في الفقرات العربية تظهر بشكل سيء، ويتغير اتجاه النصوص، بحيث في بعض الأحيان يصعب فهم المعنى لتداخل هذه النصوص ببعضها البعض.
 
-[arabic_homepage](http://www.almashroo.com/projects/wordpress/plugins/inline-text-direction/ar/ "موقع الإضافة باللغة العربية")
-[english_homepage](http://www.almashroo.com/projects/wordpress/plugins/inline-text-direction/en/ "Plugin Home Page for this plugin")
+[Plugin Home Page for this plugin](http://www.almashroo.com/projects/wordpress/plugins/inline-text-direction/en/ "Plugin Home Page for this plugin")
+
+[موقع الإضافة باللغة العربية](http://www.almashroo.com/projects/wordpress/plugins/inline-text-direction/ar/ "موقع الإضافة باللغة العربية")
 
 == Installation ==
 
@@ -36,18 +37,14 @@ To install this plugin, you need to do the following:
 1. تفعيل الإضافة من لوحة التحكم.
 1. اختياري: ستجد تحت "الخيارات" رابطاً جديداً لتغيير خيارات إضافة “اتجاه النص المضمن”، يمكنك التعديل عليها بما يتناسب مع الموقع.
 
-
-== Frequently Asked Questions ==
-
-
 == Screenshots ==
 
-1. inline-text-direction-control-editor-ar.png
-2. inline-text-direction-control-index-ar.png
-3. inline-text-direction-control-ar.png
-4. inline-text-direction-control-editor-en.png
-5. inline-text-direction-control-index-en.png
-6. inline-text-direction-control-en.png
+1. Visual Editor (tinyMCE) interface with the added buttons "Arabic Interface"
+2. Post before and after edit "Arabic Interface"
+3. Options page "Arabic Interface"
+4. Visual Editor (tinyMCE) interface with the added buttons "English Interface"
+5. Post before and after edit "English Interface"
+6. Options page "English Interface"
 
 == Changelog ==
 
